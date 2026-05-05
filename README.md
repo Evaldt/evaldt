@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tech stack and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -41,7 +41,7 @@
 
 
 
-## 🐍 Contribuições
+## 🐍 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Evaldt/Evaldt/output/github-contribution-grid-snake-dark.svg">
@@ -51,7 +51,7 @@
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauandiasevaldt2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-evaldt/)
