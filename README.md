@@ -2,7 +2,7 @@
 
 # Hello, I am Kauan Dias Evaldt! 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=185FA5&center=true&vCenter=true&width=600&lines=Computer%20Science%20Student%20%7C%20AI%20%26%20Java%20Enthusiast%20%7C%20Building%20my%20path" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=185FA5&center=true&vCenter=true&width=600&lines=%20%7C%20AI%20%26%20Java%20Enthusiast%20%7C%20Building%20my%20path" alt="Typing SVG" />
 
 📍 Porto Alegre - RS
 
