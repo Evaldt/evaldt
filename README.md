@@ -15,7 +15,7 @@
 - 🎓 Computer Science student diving deep into backend development
 - 🏗️ Passionate about system design, clean architecture and how things scale
 - 🗄️ Love working with databases — from query optimization to data modeling
-- 🔌 Building REST APIs with Java, Spring Boot and Python
+- 🔌 Building REST APIs with Java, Spring Boot, NodeJS and Python
 - 🐧 Linux terminal is my second home
 - 🚀 Currently focused on becoming a backend developer
 - 💬 Ask me about Java, Spring, SQL or anything backend-related
